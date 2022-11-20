@@ -2,12 +2,6 @@
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=30&pause=1000&color=EAC000&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Kevser;Welcome+to+my+GitHub+page)](https://git.io/typing-svg)
 
-### What I'm using ? 🛠     
-
-2022 is the year that changed my life. I started a journey in IT World.
-I have succesfully mastered Git, Github, HTML,CSS, Linux, IT Fundamentals, Computational Thinking and Basic Python.Now I chose the AWS&DevOps path and promised to learn and do everything I need to learn on this path.
-<br/>
-
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevser-g/) 
 
